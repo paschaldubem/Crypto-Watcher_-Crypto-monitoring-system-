@@ -20,7 +20,8 @@ An automated Crypto Price Monitoring & Alerting System
 ### Finance/Trading Automation
 <img width="1536" height="1024" alt="Crypto Watcher Dashboard Design" src="https://github.com/user-attachments/assets/c2228513-45a3-44e2-9f1b-eb5e42647267" />
 
-### The lovable UI wepage can be accessed [HERE](https://coin-watch-airtable.lovable.app/)
+### The lovable UI wepage can be accessed [HERE](https://eu2.make.com/public/shared-scenario/WvgND3qy38u/crypto-price-monitoring-system)
+
 <img width="1857" height="1012" alt="Lovable UI 2" src="https://github.com/user-attachments/assets/272117ae-0a1a-4479-a0c4-c0075fb4ec6f" />
 
 ### The make.com workflow can be scenario can be viewed [HERE](https://eu2.make.com/public/shared-scenario/WvgND3qy38u/crypto-price-monitoring-system)
